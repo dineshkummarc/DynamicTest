@@ -12,12 +12,21 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Movie m = new Movie();
-            //var o = new { Title = "Ghostbusters", Rating = "PG" };
 
+            var o = new { Title = "Ghostbusters", Rating = "PG" };
+
+
+            // uncomment below for working solution based on answer from Stackoverflow 
+            // http://stackoverflow.com/questions/9416095/dynamic-does-not-contain-a-definition-for-a-property-from-a-project-reference
+            /*  
+            
             dynamic o = new ExpandoObject();
             o.Title = "Ghostbusters";
             o.Rating = "PG";
-            
+            */
+
+
+
             Console.WriteLine(m.PrintMovie(o));
         }
     }
