@@ -1,0 +1,7 @@
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\bin\Debug\ConsoleApplication1.exe
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication2\bin\Debug\ConsoleApplication1.pdb

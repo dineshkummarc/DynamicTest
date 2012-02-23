@@ -1,0 +1,6 @@
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Root\Dev\Projects\Dynamic\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
